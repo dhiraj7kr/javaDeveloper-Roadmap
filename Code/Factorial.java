@@ -1,9 +1,9 @@
-// Question:
-// Write a Java program that calculates the factorial of a number using a for loop. The program should:
+/* Question:
+Write a Java program that calculates the factorial of a number using a for loop. The program should:
 
-// Ask the user to enter a positive integer.
-// Calculate the factorial of the entered number using a loop.
-// Print the result.
+Ask the user to enter a positive integer.
+Calculate the factorial of the entered number using a loop.
+Print the result. */
 import java.util.*;
 class Factorial {
     public static void main(String[] args) {
@@ -20,13 +20,15 @@ class Factorial {
     }
 }
 
-// output:
-// Enter a number: 
-// 100
-// Factorail of the number 100 is
-// 2
-// 4
-// 5
-// 10
+/* 
+output:
+Enter a number: 
+100
+Factorail of the number 100 is
+2
+4
+5
+10
+    */
 
 // === Code Execution Successful ===
