@@ -1,4 +1,4 @@
-// Inhertense
+// Inhertense: Inheritance allows a child class to inherit fields and methods from a parent class.
 
 import java.util.*;
 class Book{
