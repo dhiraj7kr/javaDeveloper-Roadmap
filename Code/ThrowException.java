@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Throw{
+public class Main{
      static void readFile() throws IOException{
         FileReader file= new FileReader("text.txt");
         BufferedReader br = new BufferedReader(file);
@@ -20,3 +20,6 @@ public class Throw{
         System.out.println(" program Contiue...");
     }
 }
+//OUTPUT:
+
+// File cannot be found or read : text.txt (No such file or directory)
