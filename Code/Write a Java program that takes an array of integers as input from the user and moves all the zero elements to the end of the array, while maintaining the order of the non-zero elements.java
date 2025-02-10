@@ -1,5 +1,7 @@
-// Online Java Compiler
-// Use this editor to write, compile and run your Java code online
+// Write a Java program that takes an array of integers as input from the user and moves all the zero elements to the end of the array, 
+//while maintaining the order of the non-zero elements.
+
+
 import java.util.*;
 class Main {
     public static void main(String[] args) {
@@ -38,11 +40,12 @@ class Main {
 output:
 
 Enter the length of the array
-5
-Enter the 5 number for the array: 
-4
-5
-5
+6
+Enter the 6 number for the array: 
+3
+0
+6
+3
 0
 5
-4 5 5 5 0 
+final output: 3 6 3 5 0 0 
